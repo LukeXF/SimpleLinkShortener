@@ -34,8 +34,8 @@ puts markdown.to_html
 ```
 
 
-| Description                 | Download Link  | Right Aligned |
-| --------------------------- |-----------------| -----:|
-| Bearbones download          | some wordy text | $1600 |
-| col 2 is                    | centered        |   $12 |
-| zebra stripes               | are neat        |    $1 |
+| Description                 | Usages                 | Download Link   | Right Aligned |
+| --------------------------- |-----------------       |-----------------| -----:|
+| Barebones download          | links.ini only (admin) |                 | V1.0 |
+| Simple Styling              | links.ini only (admin) |                 | V1.1 |
+| Bootstrap Supported         | links.ini only (admin) |                 | V1.2 |
