@@ -6,6 +6,10 @@ Feel free to fork, knife or spoon my code.
 
 
 ### V.1 - Super Simple - file storage
+###### Usage
+The most simple shortner is extremely easy to use.
+###### Requirmenets
+1. s
 
 | Release | Description                 | Usages                 | Download Link   | 
 | -------:| --------------------------- |-----------------       |-----------------|
