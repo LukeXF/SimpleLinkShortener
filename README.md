@@ -69,7 +69,7 @@ You can also include inline Markdown such as links, bold, italics, or strikethro
 Finally, by including colons : within the header row, you can define text to be left-aligned, right-aligned, or center-aligned:
 
 | Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
+| ------------- |-----------------| -----:|
 | col 3 is      | some wordy text | $1600 |
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
