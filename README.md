@@ -34,8 +34,8 @@ puts markdown.to_html
 ```
 
 
-| Description                 | Usages                 | Download Link   | Right Aligned |
-| --------------------------- |-----------------       |-----------------| -----:|
-| Barebones download          | links.ini only (admin) |                 | V1.0 |
-| Simple Styling              | links.ini only (admin) |                 | V1.1 |
-| Bootstrap Supported         | links.ini only (admin) |                 | V1.2 |
+| Release | Description                 | Usages                 | Download Link   | 
+| -------;| --------------------------- |-----------------       |-----------------|
+| V1.0    | Barebones download          | links.ini only (admin) |                 |
+| V1.1    | Simple Styling              | links.ini only (admin) |                 |
+| V1.2    | Bootstrap Supported         | links.ini only (admin) |                 | 
