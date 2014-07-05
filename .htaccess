@@ -1,4 +1,13 @@
+# Turns on magic.
 RewriteEngine On
+RewriteBase /
 
-RewriteCond $1 !^(index\.php)
+# Removes index.php from URLs
+RewriteCond %{THE_REQUEST} ^GET.*index\.php [NC]
+RewriteCond %{REQUEST_URI} !/system/.* [NC]
+RewriteRule (.*?)index\.php/*(.*) /$1$2 [R=301,NE,L]
+
+# Directs all requests through index.php - Magic!
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(.*)$ index.php?l=$1 [L]
