@@ -21,6 +21,12 @@ The most simple shortner is extremely easy to use. All that is needed to get thi
 ![### V.2 - Simple - database storage](http://puu.sh/9YoVJ/4395ce7be1.png)
 The version is personally what I expect most people to use. It allows end users to submit their own links for submission and to a point where it allows people to select their own customised link. Once they created it is stored into a database and as long as the database stays up all will be well. V2.3 Allows cname support (subdomains) using a wildcard DNS.
 
+**Requirmenets**
+
+1. PHP 2.5.7 or higher
+2. Ability to use .htaccess files
+3. File access
+
 | Release | Description                                       | Usages                 | Download Link   | 
 | -------:| ------------------------------------------------- |-----------------       |-----------------|
 | V2.0    | No front end access                               | Database only          |                 |
