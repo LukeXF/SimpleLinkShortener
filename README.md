@@ -11,7 +11,7 @@ The most simple shortner is extremely easy to use.
 ###### Requirmenets
 1. PHP 2.5.7 or higher
 2. Ability to use .htaccess files
-3. 
+3. File acces to be able to edit links.ini
 
 
 | Release | Description                 | Usages                 | Download Link   | 
