@@ -1,13 +1,8 @@
-Simple Link Shortner
-==========================
+![#Simple Link Shortener](http://puu.sh/9Ym1a/3ebd4c8fca.png)
+###### I got asked if I could make a super simple link shortner.
+###### Feel free to fork, knife or spoon my code.
 
-I got asked if I could make a super simple link shortner.
-Feel free to fork, knife or spoon my code.
-
-
-![Simple Link Shortener](http://puu.sh/9Ym1a/3ebd4c8fca.png)
-### V.1 - Super Simple - file storage
-![V1 - Super Simple - file storage](http://puu.sh/9YmTj/cd068783b1.png)
+![###V1 - Super Simple - file storage](http://puu.sh/9YmTj/cd068783b1.png)
 ###### Usage
 The most simple shortner is extremely easy to use.
 ###### Requirmenets
