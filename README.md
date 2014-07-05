@@ -7,7 +7,7 @@ Feel free to fork, knife or spoon my code.
 
 ![Simple Link Shortener](http://puu.sh/9Ym1a/3ebd4c8fca.png)
 ### V.1 - Super Simple - file storage
-![V1 - Super Simple - file storage](http://puu.sh/9YmPc/f9258441de.png)
+![V1 - Super Simple - file storage](http://puu.sh/9YmTj/cd068783b1.png)
 ###### Usage
 The most simple shortner is extremely easy to use.
 ###### Requirmenets
