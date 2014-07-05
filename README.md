@@ -2,7 +2,7 @@
 ###### I got asked if I could make a super simple link shortner. But saw potential to make it much more useful; Feel free to fork, knife or spoon my code.  Using [MIT ](http://opensource.org/licenses/MIT) Licensing. If you have any suggestions or issues with the any of the projects then feel free to raise an issue or a request a pull of the fixed version.
 
 
-![###V1 - Super Simple - file storage](http://puu.sh/9YmTj/cd068783b1.png)
+![###V1 - Super Simple - file storage](http://puu.sh/9Yniy/b71d20e1ee.png)
 ###### Usage
 The most simple shortner is extremely easy to use.
 ###### Requirmenets
