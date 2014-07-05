@@ -1,5 +1,5 @@
 ![#Simple Link Shortener](http://puu.sh/9Ym1a/3ebd4c8fca.png)
-###### I got asked if I could make a super simple link shortner.  Feel free to fork, knife or spoon my code.  Using [MIT ](http://opensource.org/licenses/MIT) Licensing. If you have any suggestions or issues with the any of the projects then feel free to raise an issue or a request a pull of the fixed version.
+###### I got asked if I could make a super simple link shortner. But saw potential to make it much more useful; Feel free to fork, knife or spoon my code.  Using [MIT ](http://opensource.org/licenses/MIT) Licensing. If you have any suggestions or issues with the any of the projects then feel free to raise an issue or a request a pull of the fixed version.
 
 ![###V1 - Super Simple - file storage](http://puu.sh/9YmTj/cd068783b1.png)
 ###### Usage
