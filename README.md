@@ -16,13 +16,14 @@ The most simple shortner is extremely easy to use. All that is needed to get thi
 | -------:| --------------------------- |-----------------       |-----------------|
 | V1.0    | Barebones download          | links.ini only (admin) |                 |
 | V1.1    | Simple Styling              | links.ini only (admin) |                 |
-| V1.2    | Bootstrap Supported         | links.ini only (admin) |                 | 
+| V1.2    | Bootstrap Supported         | links.ini only (admin) |                 |
 
-### V.2 - Simple - database storage
+![### V.2 - Simple - database storage](http://puu.sh/9YoVJ/4395ce7be1.png)
+The version is personally what I expect most people to use. It allows end users to submit their own links for submission and to a point where it allows people to select their own customised link. Once they created it is stored into a database and as long as the database stays up all will be well.
 | Release | Description                 | Usages                 | Download Link   | 
 | -------:| --------------------------- |-----------------       |-----------------|
-| V2.0    | Barebones download          | links.ini only (admin) |                 |
-| V2.1    | Simple Styling              | links.ini only (admin) |                 |
+| V2.0    | No front end access         | Database only          |
+| V2.1    | Allows users to submit links| links.ini only (admin) |                 |
 | V2.2    | Bootstrap Supported         | links.ini only (admin) |                 |
 
 ### V.3 - Average - database storage - supports cname subdomains
