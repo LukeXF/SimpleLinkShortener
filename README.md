@@ -5,6 +5,7 @@ I got asked if I could make a super simple link shortner.
 Feel free to fork, knife or spoon my code.
 
 
+![Simple Link Shortener](http://puu.sh/9Ykeh/0559731074.png)
 ### V.1 - Super Simple - file storage
 ###### Usage
 The most simple shortner is extremely easy to use.
