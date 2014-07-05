@@ -9,7 +9,10 @@ Feel free to fork, knife or spoon my code.
 ###### Usage
 The most simple shortner is extremely easy to use.
 ###### Requirmenets
-1. s
+1. PHP 2.5.7 or higher
+2. Ability to use .htaccess files
+3. 
+
 
 | Release | Description                 | Usages                 | Download Link   | 
 | -------:| --------------------------- |-----------------       |-----------------|
