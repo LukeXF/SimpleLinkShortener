@@ -5,7 +5,7 @@ I got asked if I could make a super simple link shortner.
 Feel free to fork, knife or spoon my code.
 
 
-## V.1 | Super Simple - file storage
+### V.1 | Super Simple - file storage
 
 | Release | Description                 | Usages                 | Download Link   | 
 | -------:| --------------------------- |-----------------       |-----------------|
@@ -13,8 +13,8 @@ Feel free to fork, knife or spoon my code.
 | V1.1    | Simple Styling              | links.ini only (admin) |                 |
 | V1.2    | Bootstrap Supported         | links.ini only (admin) |                 | 
 
-## V.2 | Simple - database storage
-
+ V.2 | Simple - database storage
+---
 | Release | Description                 | Usages                 | Download Link   | 
 | -------:| --------------------------- |-----------------       |-----------------|
 | V2.0    | Barebones download          | links.ini only (admin) |                 |
@@ -22,8 +22,8 @@ Feel free to fork, knife or spoon my code.
 | V2.2    | Bootstrap Supported         | links.ini only (admin) |                 | 
 
 
-## V.3 | Average - database storage - supports cname subdomains
-
+V.3 | Average - database storage - supports cname subdomains
+===
 | Release | Description                 | Usages                 | Download Link   | 
 | -------:| --------------------------- |-----------------       |-----------------|
 | V3.0    | Barebones download          | links.ini only (admin) |                 |
