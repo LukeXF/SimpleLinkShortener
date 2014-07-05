@@ -5,7 +5,7 @@ I got asked if I could make a super simple link shortner.
 Feel free to fork, knife or spoon my code.
 
 
-##Super Simple *V1.0*
+## *V1.0* | Super Simple
 
 ####So I decided to split this into three stages.
 
