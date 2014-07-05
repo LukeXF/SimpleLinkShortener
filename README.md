@@ -19,26 +19,11 @@ The most simple shortner is extremely easy to use. All that is needed to get thi
 | V1.2    | Bootstrap Supported         | links.ini only (admin) |                 |
 
 ![### V.2 - Simple - database storage](http://puu.sh/9YoVJ/4395ce7be1.png)
-The version is personally what I expect most people to use. It allows end users to submit their own links for submission and to a point where it allows people to select their own customised link. Once they created it is stored into a database and as long as the database stays up all will be well.
-| Release | Description                 | Usages                 | Download Link   | 
-| -------:| --------------------------- |-----------------       |-----------------|
-| V2.0    | No front end access         | Database only          |
-| V2.1    | Allows users to submit links| links.ini only (admin) |                 |
-| V2.2    | Bootstrap Supported         | links.ini only (admin) |                 |
+The version is personally what I expect most people to use. It allows end users to submit their own links for submission and to a point where it allows people to select their own customised link. Once they created it is stored into a database and as long as the database stays up all will be well. V2.3 Allows cname support (subdomains) using a wildcard DNS.
 
-### V.3 - Average - database storage - supports cname subdomains
-
-| Release | Description                 | Usages                 | Download Link   | 
-| -------:| --------------------------- |-----------------       |-----------------|
-| V3.0    | Barebones download          | links.ini only (admin) |                 |
-| V3.1    | Simple Styling              | links.ini only (admin) |                 |
-| V3.2    | Bootstrap Supported         | links.ini only (admin) |                 | 
-
-
-[Visit GitHub!](www.github.com).
-
-```php
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
+| Release | Description                                       | Usages                 | Download Link   | 
+| -------:| ------------------------------------------------- |-----------------       |-----------------|
+| V2.0    | No front end access                               | Database only          |                 |
+| V2.1    | Allows users to submit their own links            | DB + Web link creation |                 |
+| V2.2    | Users can submit own links with custom endings    | DB + Custom links      |                 |
+| V2.2    | Users can submit own links wit custom subdomains  | DB + Custom DNS        |                 |
