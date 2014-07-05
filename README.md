@@ -39,3 +39,7 @@ puts markdown.to_html
 | V1.0    | Barebones download          | links.ini only (admin) |                 |
 | V1.1    | Simple Styling              | links.ini only (admin) |                 |
 | V1.2    | Bootstrap Supported         | links.ini only (admin) |                 | 
+| | | |
+| V1.0    | Barebones download          | links.ini only (admin) |                 |
+| V1.1    | Simple Styling              | links.ini only (admin) |                 |
+| V1.2    | Bootstrap Supported         | links.ini only (admin) |                 | 
