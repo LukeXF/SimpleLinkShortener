@@ -6,5 +6,11 @@ Feel free to fork, knife or spoon my code.
 
 
 ##Release control
-> *So I decided to split this into three stages.*
-> V1.0 - A really simple naked setup. Very basic and very easy to use.
+
+*So I decided to split this into three stages.*
+
+######Release V1.0
+> A really simple naked setup. Very basic and very easy to use.
+
+
+######Release V1.0
