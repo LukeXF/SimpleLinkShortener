@@ -1,5 +1,5 @@
 {
-    "name": "lukexf/simplelinkshortener",
+    "name": "LukeXF/SimpleLinkShortener",
     "description": "A simple but sweet link shortener.",
     "keywords": ["Link", "shortener", "URL", "get"],
     "license": "MIT",
@@ -7,8 +7,8 @@
         "php": ">=2.5.7"
         },
     "time": "2014-07-06",
-    "authors": {
+    "authors": [
             "name": "Luke Brown",
             "email": "me@luke.sx"
-        }
+        ]
 }
