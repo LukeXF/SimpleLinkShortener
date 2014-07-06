@@ -10,6 +10,7 @@ The most simple shortner is extremely easy to use. All that is needed to get thi
 1. PHP 2.5.7 or higher
 2. Ability to use .htaccess files
 3. File acces to be able to edit links.ini
+4. Ability to upload files
 
 
 | Release | Description                 | Usages                 | Download Link   | 
@@ -25,7 +26,10 @@ The version is personally what I expect most people to use. It allows end users 
 
 1. PHP 2.5.7 or higher
 2. Ability to use .htaccess files
-3. File access
+3. Ability to upload files
+4. Access and use to a MySQL database
+4. (optional) Wildcard DNS.
+
 
 | Release | Description                                       | Usages                 | Download Link   | 
 | -------:| ------------------------------------------------- |-----------------       |-----------------|
