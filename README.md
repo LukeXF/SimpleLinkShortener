@@ -15,7 +15,7 @@ The most simple shortner is extremely easy to use. All that is needed to get thi
 
 | Release | Description                 | Download Link   |
 | -------:| --------------------------- |:-----------------:|
-| V1.0    | Barebones download          |[aab44a3](https://github.com/LukeXF/SimpleLinkShortener/releases/tag/V1.0)|
+| V1.0    | Barebones download          |[b62ee29](https://github.com/LukeXF/SimpleLinkShortener/releases/tag/V1.0)|
 | V1.1    | Simple Styling              |                 |
 | V1.2    | Bootstrap Supported         |                 |
 
