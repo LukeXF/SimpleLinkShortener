@@ -50,3 +50,6 @@ The version is personally what I expect most people to use. It allows end users 
 
 1. None... Yet.
 
+
+[![PayPal](http://puu.sh/9YTIf/cbad0b9cc4.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BWCYKWBPEFZPW)
+
