@@ -37,3 +37,16 @@ The version is personally what I expect most people to use. It allows end users 
 | V2.1    | Allows users to submit their own links            | DB + Web link creation |[Coming Soon](https://github.com/LukeXF/SimpleLinkShortener/releases/tag/V2.1)                                   |
 | V2.2    | Users can submit own links with custom endings    | DB + Custom links      |[Coming Soon](https://github.com/LukeXF/SimpleLinkShortener/releases/tag/V2.2)                                   |
 | V2.3    | Users can submit own links with custom subdomains | DB + Custom DNS        |[Coming Soon](https://github.com/LukeXF/SimpleLinkShortener/releases/tag/V2.3)                                   |
+
+
+[Things to do and outstanding issues](http://puu.sh/9YPtw/67cedfb459.png)
+
+**To Do**
+
+1. None
+
+**Remaining Issues:**
+
+1. Create Database Versions
+2. Possible MVC Release
+
