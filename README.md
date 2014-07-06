@@ -16,7 +16,7 @@ The most simple shortener is extremely easy to use. All that is needed to get th
 | Release | Description                 | Download Link   |
 | -------:| --------------------------- |:-----------------:|
 | V1.0    | Extremely barebones download|[aab44a3](https://github.com/LukeXF/SimpleLinkShortener/releases/tag/V1.0)|
-| V1.1    | Recommend download          |                 |
+| V1.1    | **Recommend download**          |                 |
 | V1.2    | Bootstrap supported         |                 |
 
 ![### V.2 - Simple - database storage](http://puu.sh/9YoVJ/4395ce7be1.png)
