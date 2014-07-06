@@ -3,7 +3,7 @@
 
 
 ![###V1 - Super Simple - file storage](http://puu.sh/9Yniy/b71d20e1ee.png)
-The most simple shortner is extremely easy to use. All that is needed to get this working is a quick download and dump it on the deployment zone of your choice. As this is a very short script the only downside is that to add links you must place them inside links.ini using a FTP program or editor, but you could example upon it to allow trusted users to edit the page or add new lines to it.
+The most simple shortner is extremely easy to use. All that is needed to get this working is a quick download and dump it on the deployment zone of your choice. As this is a very short script the only downside is that to add links you must place them inside links.ini using a FTP program or editor, but you could improve upon it to allow trusted users to edit the page or add new lines to it.
 
 **Requirmenets**
 
@@ -13,7 +13,7 @@ The most simple shortner is extremely easy to use. All that is needed to get thi
 4. Ability to upload files
 
 
-| Release | Description                 | Download Link   | 
+| Release | Description                 | Download Link   |
 | -------:| --------------------------- |:-----------------:|
 | V1.0    | Barebones download          |[aab44a3](https://github.com/LukeXF/SimpleLinkShortener/releases/tag/V1.0)|
 | V1.1    | Simple Styling              |                 |
@@ -33,7 +33,7 @@ All downloads from 1.2/2.0 onwards will be based around the [Bootstrap](http://g
 4. (optional) Wildcard DNS.
 
 
-| Release | Description                                       | Usages                 | Download Link   | 
+| Release | Description                                       | Usages                 | Download Link   |
 | -------:| ------------------------------------------------- |----------------------  |-----------------|
 | V2.0    | No front end access                               | DB only                |                 |
 | V2.1    | Allows users to submit their own links            | DB + Web link creation |                 |
