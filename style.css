@@ -1,0 +1,53 @@
+/*   STANDARD STYLES   */
+body {
+	background:#e8e8e8;
+	font-family:"Helvetica Neue", Helvetica, Arial, Sans-Serif;
+	color:#636262;
+	overflow:hidden;
+	text-align: center;
+}
+h1, h2 {font-weight:normal; color:#999; margin:4px 0 6px 0; text-transform:uppercase;}
+h1 {font: 35px 'QuicksandBold', Arial, sans-serif; font-weight: bold;}
+b, a {color: #848484; text-decoration: none; font-weight: bold;}
+p {font-weight:normal; color:#12799D; margin:4px 0 6px 0; padding-top: 20px; font-size:20px;}
+i {margin-top: 10px; font-size: 22px; color: #999; text-transform;}
+h2 {font:20px 'QuicksandBold', Arial, sans-serif; font-weight: bold;}
+
+/*   BACKGROUNDS AND SIDEBAR   */
+#maincontainer {min-height:100%; width:100%; position:absolute; overflow:visible;}
+#outside {border-top:4px solid #d6d6d6;border-bottom:4px solid #d6d6d6; margin-top:75px; }
+#inside {border-top:2px solid #e8e8e8; border-bottom:2px solid #e8e8e8; background:#d6d6d6; padding:100px;}
+#small {font-size: 20px; font-style: italic;}
+
+/*   A LOT OF FORM STYLING   */
+
+.address {border: 1px solid hsl(207, 11%, 86%); border-radius: 2px; padding: 10px; width: 80%; color: #505050; height: 31px; text-transform: uppercase;}
+.bar {border-bottom: 1px solid hsl(207, 11%, 86%); padding: 5px; background: hsl(207, 11%, 98%); border-radius: 3px 3px 0 0;}
+.link-input {margin: 30px auto 0px; border: 1px solid hsl(207, 11%, 86%); border-radius: 3px; box-shadow: 0 1px 1px hsla(0, 0%, 0%, 0.1); width: 500px;}
+.button-grey:hover {color: black;}
+.button:hover {color: hsl(202, 100%, 38%); background: white; cursor: pointer;}
+.button {
+border: 2px solid hsl(202, 100%, 38%);
+border-radius: 2px;
+padding: 8px 12px;
+font-weight: 600;
+background: hsl(202, 100%, 38%);
+color: white;
+font: 24px/28px 'QuicksandBold', Arial, sans-serif;
+}
+.button-grey {
+background: white;
+border: 1px solid hsl(207, 11%, 86%);
+padding: 8px;
+font-size: 12px;
+color: #888;
+text-transform: uppercase;
+letter-spacing: 1px;
+font-weight: 700;
+color: hsl(202, 100%, 38%);
+padding-top: 12px;
+padding-bottom: 11px;
+}
+
+
+
