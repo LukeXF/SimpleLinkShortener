@@ -39,16 +39,8 @@ The version is personally what I expect most people to use. It allows end users 
 | V2.3    | Users can submit own links with custom subdomains | DB + Custom DNS        |[Coming Soon](https://github.com/LukeXF/SimpleLinkShortener/releases/tag/V2.3)                                   |
 
 
-![Things to do and outstanding issues](http://puu.sh/9YPtw/67cedfb459.png)
-
-**To Do**
-
-1. Create Database Versions
-2. Possible MVC Release
-
-**Remaining Issues:**
-
-1. None... Yet.
+[![Wiki Guides](http://puu.sh/9YV1B/400df5f3a7.png)](https://github.com/LukeXF/SimpleLinkShortener/wiki)
+[![Things to do and outstanding issues](http://puu.sh/9YV9h/281b8e5f6b.png)](https://github.com/LukeXF/SimpleLinkShortener/issues)
 
 
 [![PayPal](http://puu.sh/9YTIf/cbad0b9cc4.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BWCYKWBPEFZPW)
