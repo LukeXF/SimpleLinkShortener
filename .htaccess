@@ -1,21 +1,26 @@
 #
-#  Author :		Luke Brown
-#  License:  	MIT
-#  Created: 	July 2014
-#  URL    :		https://github.com/LukeXF/SimpleLinkShortener/
-#  Contact:		me@luke.sx
+#	  Author :		Luke Brown
+#	  License:  	MIT
+#	  Created: 		July 2014
+#	  URL    :		https://github.com/LukeXF/SimpleLinkShortener/
+#	  Contact:		me@luke.sx
 #
 
-# Turns on magic.
-RewriteEngine On
-RewriteBase /
 
-# Removes index.php from URLs
-RewriteCond %{THE_REQUEST} ^GET.*index\.php [NC]
-RewriteCond %{REQUEST_URI} !/system/.* [NC]
-RewriteRule (.*?)index\.php/*(.*) /$1$2 [R=301,NE,L]
+# Allows magic to turn on
+Options +FollowSymLinks -Indexes -MultiViews
 
-# Directs all requests through index.php - Magic!
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)$ index.php?l=$1 [L]
+# Turns magic on
+RewriteEngine on
+
+# Allows you to use http://linkstuff.com/AW1N
+# Rather than using http://linkstuff.com/decoder.php?decode=$1=AW1N
+# Much sexier!
+#
+RewriteRule ^([\w\d]{4})$ decoder.php?decode=$1 [L]
+
+# Blocks permission for web access to the config file.
+RewriteRule ^/?config\.php$ - [F,L]
+
+# Returns if link is not found.
+ErrorDocument 404 "<H1>Link not found</H1>"
