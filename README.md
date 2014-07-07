@@ -34,7 +34,7 @@ The version is personally what I expect most people to use. It allows end users 
 | Release | Description                                       | Usages                 | Download Link   |
 | -------:| ------------------------------------------------- |----------------------  |-----------------|
 | V2.0    | No front end access                               | DB only                |[Coming Soon](https://github.com/LukeXF/SimpleLinkShortener/releases/tag/V2.0)                                   |
-| V2.1    | Allows users to submit their own links            | DB + Web link creation |[Coming Soon](https://github.com/LukeXF/SimpleLinkShortener/releases/tag/V2.1)                                   |
+| **V2.1**|**Allows users to submit their own links - Recommended**| DB + Web link creation |[92fada1](https://github.com/LukeXF/SimpleLinkShortener/releases/tag/V2.1)                                   |
 | V2.2    | Users can submit own links with custom endings    | DB + Custom links      |[Coming Soon](https://github.com/LukeXF/SimpleLinkShortener/releases/tag/V2.2)                                   |
 | V2.3    | Users can submit own links with custom subdomains | DB + Custom DNS        |[Coming Soon](https://github.com/LukeXF/SimpleLinkShortener/releases/tag/V2.3)                                   |
 
