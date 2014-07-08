@@ -6,6 +6,8 @@
 * Latest Released File Download: [**V1.1** - e572348](https://github.com/LukeXF/SimpleLinkShortener/releases/tag/V1.1)
 * Latest Released Database Download: [**V2.1** - 92fada1](https://github.com/LukeXF/SimpleLinkShortener/releases/tag/V2.1) - *suggested download*
 
+Check Help and install guide for any issues you come across.
+
 ![###V1 - Super Simple - file storage](http://puu.sh/9Yniy/b71d20e1ee.png)
 The most simple shortner is extremely easy to use. All that is needed to get this working is a quick download and dump it on the deployment zone of your choice. As this is a very short script the only downside is that to add links you must place them inside links.ini using a FTP program or editor, but you could improve upon it to allow trusted users to edit the page or add new lines to it.
 
