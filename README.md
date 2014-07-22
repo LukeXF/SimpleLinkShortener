@@ -46,6 +46,7 @@ The version is personally what I expect most people to use. It allows end users 
 
 
 [![Wiki Guides](http://puu.sh/9YV1B/400df5f3a7.png)](https://github.com/LukeXF/SimpleLinkShortener/wiki)
+
 [![Things to do and outstanding issues](http://puu.sh/9YV9h/281b8e5f6b.png)](https://github.com/LukeXF/SimpleLinkShortener/issues)
 
 
