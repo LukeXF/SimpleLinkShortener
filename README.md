@@ -1,6 +1,12 @@
 ![#Simple Link Shortener](http://puu.sh/9Ym1a/3ebd4c8fca.png)
 ###### I got asked if I could make a super simple link shortner. But saw potential to make it much more useful; Feel free to fork, knife or spoon my code.  Using [MIT](http://opensource.org/licenses/MIT) Licensing. If you have any suggestions or issues with the any of the projects then feel free to raise an issue or a request a pull of the fixed version.
 
+**Quick Download**
+
+* Latest Released File Download: [**V1.1** - e572348](https://github.com/LukeXF/SimpleLinkShortener/releases/tag/V1.1)
+* Latest Released Database Download: [**V2.1** - 92fada1](https://github.com/LukeXF/SimpleLinkShortener/releases/tag/V2.1) - *suggested download*
+
+Check Help and install guide for any issues you come across.
 
 ![###V1 - Super Simple - file storage](http://puu.sh/9Yniy/b71d20e1ee.png)
 The most simple shortner is extremely easy to use. All that is needed to get this working is a quick download and dump it on the deployment zone of your choice. As this is a very short script the only downside is that to add links you must place them inside links.ini using a FTP program or editor, but you could improve upon it to allow trusted users to edit the page or add new lines to it.
@@ -32,14 +38,15 @@ The version is personally what I expect most people to use. It allows end users 
 
 
 | Release | Description                                       | Usages                 | Download Link   |
-| -------:| ------------------------------------------------- |----------------------  |-----------------|
+| -------:| ------------------------------------------------- |----------------------  |:---------------:|
 | V2.0    | No front end access                               | DB only                |[Coming Soon](https://github.com/LukeXF/SimpleLinkShortener/releases/tag/V2.0)                                   |
-| V2.1    | Allows users to submit their own links            | DB + Web link creation |[Coming Soon](https://github.com/LukeXF/SimpleLinkShortener/releases/tag/V2.1)                                   |
+| **V2.1**|**Allows users to submit their own links - Recommended**| DB + Web link creation |[92fada1](https://github.com/LukeXF/SimpleLinkShortener/releases/tag/V2.1)                                   |
 | V2.2    | Users can submit own links with custom endings    | DB + Custom links      |[Coming Soon](https://github.com/LukeXF/SimpleLinkShortener/releases/tag/V2.2)                                   |
 | V2.3    | Users can submit own links with custom subdomains | DB + Custom DNS        |[Coming Soon](https://github.com/LukeXF/SimpleLinkShortener/releases/tag/V2.3)                                   |
 
 
 [![Wiki Guides](http://puu.sh/9YV1B/400df5f3a7.png)](https://github.com/LukeXF/SimpleLinkShortener/wiki)
+
 [![Things to do and outstanding issues](http://puu.sh/9YV9h/281b8e5f6b.png)](https://github.com/LukeXF/SimpleLinkShortener/issues)
 
 
