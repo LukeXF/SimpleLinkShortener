@@ -16,16 +16,16 @@
 
 
 	// The connection settings to your database.
-	$con = mysql_connect(
+	$con = mysqli_connect(
 		"localhost", 	// Host name
-		"myUsername",	// Username Name
-		"myPassword" 	// Password
+		"user",	// Username Name
+		"password" 	// Password
 	);
 
 	// The Database name and table you wish to use
-	$selectDB = "myDatabase";	// Database Name
+	$selectDB = "DB";	// Database Name
 	// The table will auto generate if not found.
-	$selectDBtable = "myTable";	// Table Name
+	$selectDBtable = "Table";	// Table Name
 
 
 
@@ -38,7 +38,7 @@
 	if ($welcome == true) {
 		// Alternatively, you can run this in your SQL query if you have issues.
 		$sql = "CREATE TABLE $selectDBtable (
-				`id` varchar(5) NOT NULL,
+				`id` varchar(5) NOT NULL UNIQUE,
 				`url` varchar(255) NOT NULL,
 				`shortened` varchar(4) NOT NULL
 				)";
